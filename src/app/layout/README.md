@@ -1,0 +1,1 @@
+# Layout - Componentes de estructura
